@@ -4,7 +4,7 @@ Uma calculadora online
 
 # Live URL
 
-[Live](https://online-calculator.now.sh/#/)
+[Live](https://color-creator.now.sh/#/)
 
 ## Install the dependencies
 
